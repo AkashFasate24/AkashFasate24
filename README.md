@@ -1,17 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Akash Fasate</h1>
-<h3 align="center">Electronics And Telecommunication Engineer</h3>
-<img align="right" src="https://www.pngkit.com/png/full/625-6252897_software-engineer-clipart-programmer-computer-software-software-engineer.png"  width="400">
+
+<h1 align="center">Hi 👋, I'm { Akash Fasate }</h1>
+<h3 align="center">< Electronics And Telecommunication Engineer ></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashfasate24&label=Profile%20views&color=0e75b6&style=flat" alt="akashfasate24" /> </p>
 
-- 📫 How to reach me **akashfasate24@gmail.com**
+- 📫 How to reach me -> **akashfasate24@gmail.com**
+
+- 📄 Resume : [https://drive.google.com/file/d/1v_su5IQIyaFG62gwXTUlBkfu1rCroV0u/view?usp=drivesdk](https://drive.google.com/file/d/1v_su5IQIyaFG62gwXTUlBkfu1rCroV0u/view?usp=drivesdk)
+<img align="right" src="https://empirical-software.engineering/assets/images/developer.png" width="500" >
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash fasate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash fasate" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-fasate-5a538923b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-fasate-5a538923b/" height="30" width="40" /></a>
 <a href="https://instagram.com/_akash_fasate_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akash_fasate_24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash fasate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash fasate" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/akash_fasate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akash_fasate/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
