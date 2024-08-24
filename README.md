@@ -7,7 +7,7 @@
 
 - 📫 How to reach me -> **akashfasate24@gmail.com**
 
-- 📄 Resume : [https://drive.google.com/file/d/1v_su5IQIyaFG62gwXTUlBkfu1rCroV0u/view?usp=drivesdk](https://drive.google.com/file/d/1v_su5IQIyaFG62gwXTUlBkfu1rCroV0u/view?usp=drivesdk)
+- 📄 Resume : [https://drive.google.com/file/d/15MduDNT8l9fcerezzDrWUnVWelv0HBhF/view?usp=drivesdk)
 <img align="right" src="https://empirical-software.engineering/assets/images/developer.png" width="500" >
 
 
